@@ -1,0 +1,9 @@
+venv/
+backend/venv/
+frontend/node_modules/
+__pycache__/
+*.pyc
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+data/activations.h5
+.env

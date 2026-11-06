@@ -1,0 +1,16 @@
+venv
+.env
+
+models/__pycache__/
+
+backend/__pycache__/
+
+models/__pycache__/
+
+backend/__pycache__/
+
+backend/cifar_data/
+
+data/cifar-10-python.tar.gz
+
+data/cifar-10-batches-py/

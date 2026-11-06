@@ -1,0 +1,87 @@
+[
+  {
+    "label": "horse",
+    "confidence": "high",
+    "feature_id": 0
+  },
+  {
+    "label": "blurry training images",
+    "confidence": "low",
+    "feature_id": 50
+  },
+  {
+    "label": "ice yacht or sailboat",
+    "confidence": "high",
+    "feature_id": 100
+  },
+  {
+    "label": "pictures of cats",
+    "confidence": "high",
+    "feature_id": 500
+  },
+  {
+    "label": "horse head",
+    "confidence": "high",
+    "feature_id": 1000
+  },
+  {
+    "label": "boats and ships",
+    "confidence": "high",
+    "feature_id": 1
+  },
+  {
+    "label": "boats",
+    "confidence": "medium",
+    "feature_id": 2
+  },
+  {
+    "label": "deer and related animals",
+    "confidence": "high",
+    "feature_id": 4
+  },
+  {
+    "label": "airplanes",
+    "confidence": "medium",
+    "feature_id": 5
+  },
+  {
+    "label": "horse",
+    "confidence": "high",
+    "feature_id": 20
+  },
+  {
+    "label": "horse",
+    "confidence": "high",
+    "feature_id": 40
+  },
+  {
+    "label": "ships and boats on water",
+    "confidence": "high",
+    "feature_id": 60
+  },
+  {
+    "label": "boats",
+    "confidence": "high",
+    "feature_id": 70
+  },
+  {
+    "label": "fire engine or emergency vehicle",
+    "confidence": "high",
+    "feature_id": 80
+  },
+  {
+    "label": "frogs and toads",
+    "confidence": "high",
+    "feature_id": 90
+  },
+  {
+    "label": "duplicate duplicate images",
+    "confidence": "high",
+    "feature_id": 200
+  },
+  {
+    "label": "animals and vehicles",
+    "confidence": "low",
+    "feature_id": 300
+  }
+]
